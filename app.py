@@ -1,6 +1,6 @@
-import openpyxl
-import pyperclip
-import pyautogui
+import openpyxl  # type: ignore
+import pyperclip # type: ignore
+import pyautogui # type: ignore
 from time import sleep
 
 
